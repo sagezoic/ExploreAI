@@ -7,3 +7,6 @@ https://huggingface.co/
 Dataset Sites
 https://www.kaggle.com/
 https://paperswithcode.com/
+
+Google Gemini Basic Guide
+https://codelabs.developers.google.com/codelabs/gemini-function-calling#0
