@@ -10,3 +10,6 @@ https://paperswithcode.com/
 
 Google Gemini Basic Guide
 https://codelabs.developers.google.com/codelabs/gemini-function-calling#0
+
+YouTube:
+-  [sentdex](https://www.youtube.com/@sentdex/videos): He has several videos where he shows how to use OpenAI and other AI APIs in Python.
