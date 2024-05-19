@@ -3,7 +3,6 @@
 We are a group of physicists, researchers, and software engineers. Some of us use ML/AI in our day jobs and others want to learn. In this repository, we list the resources we find useful to learn the technicalities of ML/AI.
 
 # Resoruces
-
 ## LLM
 Good Read me about LLM and KG
 https://github.com/RManLuo/Awesome-LLM-KG
@@ -54,4 +53,9 @@ This course explains how to prototype and customize generative AI models using V
 10. Develop Models for Image Captioning:
 Discover how to use deep learning methods to develop a model for captioning images.
 🔗https://lnkd.in/ewJFAfb7
+
+# AI in physics research
+## Events
+-  European Coalition for AI in Fundamental physics
+  - [First conference in 2024](https://indico.nikhef.nl/event/4875/) 
 
