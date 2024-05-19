@@ -1,3 +1,10 @@
+# Intro
+
+We are a group of physicists, researchers, and software engineers. Some of us use ML/AI in our day jobs and others want to learn. In this repository, we list the resources we find useful to learn the technicalities of ML/AI.
+
+# Resoruces
+
+## LLM
 Good Read me about LLM and KG
 https://github.com/RManLuo/Awesome-LLM-KG
 
@@ -14,7 +21,7 @@ https://codelabs.developers.google.com/codelabs/gemini-function-calling#0
 YouTube:
 -  [sentdex](https://www.youtube.com/@sentdex/videos): He has several videos where he shows how to use OpenAI and other AI APIs in Python.
 
-
+## Courses
 Free courses by Google ([Source](https://www.linkedin.com/posts/paul-storm-560360254_ai-digitaltransformation-technology-activity-7175174044516761601-JZYx?utm_source=share&utm_medium=member_desktop)):
 1. Introduction to Large Language Models: Learn about the use cases and how to enhance the performance of large language models.
 🔗 https://lnkd.in/eBVdss4T
