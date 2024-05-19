@@ -56,6 +56,6 @@ Discover how to use deep learning methods to develop a model for captioning imag
 
 # AI in physics research
 ## Events
--  European Coalition for AI in Fundamental physics
+-  [European Coalition for AI in Fundamental physics](https://www.eucaif.org/)
   - [First conference in 2024](https://indico.nikhef.nl/event/4875/) 
 
